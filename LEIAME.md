@@ -1,6 +1,6 @@
 # Corrige_Vbox_Error
 
-Script para Corrigir Virtual Box em derivados do Debian
+Script para Corrigir o erro /sbin/vboxonfig no Virtual Box em derivados do Debian
 
 Criei esse script para automatizar a correção do VirtualBox.
 
